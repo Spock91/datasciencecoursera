@@ -1,0 +1,12 @@
+WEEK 1
+Data Science defination and importance. coursetrack info. R installation guide.
+WEEK 2
+Command line uses, GIT commands, github guide and links, Installing Rpakages and tools
+WEEK3
+Types of data science question
+1.Descriptive
+2.Exploratory
+3.Inferential
+4.Predictive
+5.Causal
+6.Mechanistic
