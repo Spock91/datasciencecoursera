@@ -1,3 +1,3 @@
-# my-reflections-data-science
+# data-science-coursera
 my files of coursera data science courses
-*1. Data Science toolbox
+* Data Science toolbox
